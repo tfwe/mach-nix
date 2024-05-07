@@ -5,7 +5,7 @@
   inputs.flake-utils.url = "github:numtide/flake-utils";
   inputs.nixpkgs.url = "nixpkgs/nixos-unstable";
   inputs.pypi-deps-db = {
-    url = "github:DavHau/pypi-deps-db";
+    url = "github:tfwe/pypi-deps-db";
     flake = false;
   };
 
